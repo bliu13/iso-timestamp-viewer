@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf8520f8.css",
-    "main.js": "/static/js/main.beb326ee.js",
-    "static/js/787.52d4e9c8.chunk.js": "/static/js/787.52d4e9c8.chunk.js",
-    "index.html": "/index.html",
-    "main.cf8520f8.css.map": "/static/css/main.cf8520f8.css.map",
-    "main.beb326ee.js.map": "/static/js/main.beb326ee.js.map",
-    "787.52d4e9c8.chunk.js.map": "/static/js/787.52d4e9c8.chunk.js.map"
+    "main.css": "/iso-timestamp-viewer/static/css/main.cf8520f8.css",
+    "main.js": "/iso-timestamp-viewer/static/js/main.068fc0dd.js",
+    "static/js/787.52d4e9c8.chunk.js": "/iso-timestamp-viewer/static/js/787.52d4e9c8.chunk.js",
+    "index.html": "/iso-timestamp-viewer/index.html",
+    "main.cf8520f8.css.map": "/iso-timestamp-viewer/static/css/main.cf8520f8.css.map",
+    "main.068fc0dd.js.map": "/iso-timestamp-viewer/static/js/main.068fc0dd.js.map",
+    "787.52d4e9c8.chunk.js.map": "/iso-timestamp-viewer/static/js/787.52d4e9c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf8520f8.css",
-    "static/js/main.beb326ee.js"
+    "static/js/main.068fc0dd.js"
   ]
 }
