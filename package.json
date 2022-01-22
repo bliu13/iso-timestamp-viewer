@@ -1,6 +1,6 @@
 {
   "name": "iso-timestamp-viewer",
-  "homepage": "https://bliu13.github.io/iso-timestamp-viewer",
+  "homepage": "https://bliu13.github.io/iso-timestamp-viewer/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
